@@ -1,2 +1,2 @@
 # book-recommender-system
-Book recommneder system using collaborative filtering
+Book recommender system using collaborative filtering
