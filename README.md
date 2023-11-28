@@ -4,8 +4,7 @@ Book recommender system using collaborative filtering
 The goal of this project is to develop a book recommender system using both popularity-based and collaborative filtering methods. The system provides personalized book recommendations based on user preferences and book ratings.
  
 ## 2. Installation and Setup: 
- Download/fork/clone the project by clicking (https://github.com/CyrusFerns233/DS-projects.git) or just unzip the folder provided.
-   git clone [https://github.com/CyrusFerns233/Book-Recommender-System.git](https://github.com/CyrusFerns233/book-recommender-system/tree/maain)
+ Download/fork/clone the project by clicking (https://github.com/CyrusFerns233/book-recommender-system/tree/maain) or just unzip the folder provided.
 
 ## 3. Data Source:
 The book dataset used for this project can be found on platforms like Goodreads or Kaggle. Ensure you have the necessary dataset downloaded and available for processing.
