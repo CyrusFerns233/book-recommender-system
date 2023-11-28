@@ -11,12 +11,10 @@ The goal of this project is to develop a book recommender system using both popu
 The book dataset used for this project can be found on platforms like Goodreads or Kaggle. Ensure you have the necessary dataset downloaded and available for processing.
 
 ## 4. Usage Instructions:
-
-    Run the book recommender system using the command:
-
-    bash
-
-python app.py
+After Cloning the Project you can run the app.py file using the command 
+```python
+streamlit run app.py
+```
 
 ## 5. Contact Information:
 
