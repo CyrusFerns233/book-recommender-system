@@ -13,7 +13,7 @@ The book dataset used for this project can be found on platforms like Goodreads 
 ## 4. Usage Instructions:
 After Cloning the Project you can run the app.py file using the command 
 ```python
-streamlit run app.py
+python -m flask
 ```
 
 ## 5. Contact Information:
